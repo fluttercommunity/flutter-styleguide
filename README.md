@@ -22,7 +22,7 @@ Developers have different styles of writing code. None are technically wrong but
 
 # Organization
 Standards are set by a team of developers chosen from the community. Your current board members are
-- [Aloïs Deniel]([https://github.com/aloisdeniel](https://github.com/aloisdeniel))
+- [Aloïs Deniel](https://github.com/aloisdeniel))
 - [Simon Lightfoot](https://github.com/slightfoot) 
 - [Rap Payne](https://github.com/rapPayne)
 - [Katarina Sheremet](https://github.com/ksheremet)
@@ -31,7 +31,7 @@ If you'd like to serve for a time, contact one of the current members.
 
 # Contributors
 By contributing to this repository you are agreeing to make your content available subject to the license of this repository.
-- [Aloïs Deniel]([https://github.com/aloisdeniel](https://github.com/aloisdeniel))
+- [Aloïs Deniel](https://github.com/aloisdeniel)
 - [Simon Lightfoot](https://github.com/slightfoot)
 - [Rap Payne](https://github.com/rapPayne)
 - [Katarina Sheremet](https://github.com/ksheremet)
