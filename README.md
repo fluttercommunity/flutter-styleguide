@@ -22,7 +22,7 @@ Developers have different styles of writing code. None are technically wrong but
 
 # Organization
 Standards are set by a team of developers chosen from the community. Your current board members are
-- [Aloïs Deniel](https://github.com/aloisdeniel))
+- [Aloïs Deniel](https://github.com/aloisdeniel)
 - [Simon Lightfoot](https://github.com/slightfoot) 
 - [Rap Payne](https://github.com/rapPayne)
 - [Katarina Sheremet](https://github.com/ksheremet)
