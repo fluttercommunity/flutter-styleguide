@@ -25,6 +25,7 @@ Standards are set by a team of developers chosen from the community. Your curren
 - [Aloïs Deniel](https://github.com/aloisdeniel)
 - [Simon Lightfoot](https://github.com/slightfoot) 
 - [Rap Payne](https://github.com/rapPayne)
+- [Frederik Schweiger](https://flschweiger.net/)
 - [Katarina Sheremet](https://github.com/ksheremet)
 
 If you'd like to serve for a time, contact one of the current members. 
@@ -34,6 +35,7 @@ By contributing to this repository you are agreeing to make your content availab
 - [Aloïs Deniel](https://github.com/aloisdeniel)
 - [Simon Lightfoot](https://github.com/slightfoot)
 - [Rap Payne](https://github.com/rapPayne)
+- [Frederik Schweiger](https://flschweiger.net/)
 - [Katarina Sheremet](https://github.com/ksheremet)
 - And you .. eventually. 
 
